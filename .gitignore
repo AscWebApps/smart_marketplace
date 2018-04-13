@@ -27,5 +27,6 @@
 /config/master.key
 
 database.yml
+.DS_Store
 
 
